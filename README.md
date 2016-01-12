@@ -11,6 +11,6 @@ Just look for "@random_perrito_bot" in your Telegram app or use the (safe) follo
 Once you got Random Perrito in your Telegram app, send the /random command.
 
 ## Screenshots
-!(Screenshots/1.png)
-!(Screenshots/2.png)
+![/Start command](Screenshots/1.png)
+![/Random & /About](Screenshots/2.png)
 ### Project's forks or pull requests are welcome!
