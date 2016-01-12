@@ -1,6 +1,6 @@
 # Random Perrito Bot
 
-Random Perrito is a Telegram Bot. It consists of a dog :dog: that sees trough a crystall ball :crystal_ball and copies the results in the computer. :computer:
+Random Perrito is a Telegram Bot. It consists of a dog :dog: that sees trough a crystall ball :crystal_ball: and copies the results in the computer. :computer:
 
 More exactly: The results are random samples from a (normal (Gaussian) distribution)[https://en.wikipedia.org/wiki/Normal_distribution]. It uses (Python's numpy.random.normal) module)[http://docs.scipy.org/doc/numpy/reference/generated/numpy.random.normal.html#numpy.random.normal] from the scipy/numpy modules.
 
