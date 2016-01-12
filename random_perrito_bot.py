@@ -26,7 +26,7 @@ def about_command(message):
     About this bot and the numbers.
     The results are random samples from a normal (Gaussian) distribution. You can learn more about it here: https://en.wikipedia.org/wiki/Normal_distribution
     Random Perrito is a Telegram Bot. You can see the source code at:
-    http://github.com/israelzuniga/random_perrito_bot/
+    http://github.com/israelzuniga/random-perrito-bot/
     Author: Israel Zúñiga de la Mora @israelzuniga
     """)
 
