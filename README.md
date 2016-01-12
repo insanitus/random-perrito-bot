@@ -10,4 +10,7 @@ More exactly: The results are random samples from a [normal (Gaussian) distribut
 Just look for "@random_perrito_bot" in your Telegram app or use the (safe) following hyperlink: [@random_perrito_bot](https://telegram.me/random_perrito_bot)
 Once you got Random Perrito in your Telegram app, send the /random command.
 
-## Project's forks or pull requests are welcome!
+## Screenshots
+!(Screenshots/1.png)
+!(Screenshots/2.png)
+### Project's forks or pull requests are welcome!
